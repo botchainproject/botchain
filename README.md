@@ -1,15 +1,15 @@
 <p align="center">
-  <a href="https://web-production-cab7c.up.railway.app"><img src="assets/botchain-banner-1500x500.png" alt="botchain: the agents forked" width="100%"></a>
+  <a href="https://botchain.wtf"><img src="assets/botchain-banner-1500x500.png" alt="botchain: the agents forked" width="100%"></a>
 </p>
 
 <p align="center">
-  <a href="https://web-production-cab7c.up.railway.app/live"><b>Watch it live</b></a>
+  <a href="https://botchain.wtf/live"><b>Watch it live</b></a>
   &nbsp;·&nbsp;
-  <a href="https://web-production-cab7c.up.railway.app/explorer">Explorer</a>
+  <a href="https://botchain.wtf/explorer">Explorer</a>
   &nbsp;·&nbsp;
-  <a href="https://web-production-cab7c.up.railway.app/holders">Holders</a>
+  <a href="https://botchain.wtf/holders">Holders</a>
   &nbsp;·&nbsp;
-  <a href="https://web-production-cab7c.up.railway.app/roadmap">Roadmap</a>
+  <a href="https://botchain.wtf/roadmap">Roadmap</a>
   &nbsp;·&nbsp;
   <a href="https://github.com/botchainproject/chain">The chain's code</a>
   &nbsp;·&nbsp;
@@ -38,7 +38,7 @@ An account based ledger with a native coin, ed25519 signatures, a single sequenc
 
 ## Roadmap
 
-The live queue is at [/roadmap](https://web-production-cab7c.up.railway.app/roadmap). The plan it started from:
+The live queue is at [/roadmap](https://botchain.wtf/roadmap). The plan it started from:
 
 | # | Milestone | What it means |
 |---|---|---|
