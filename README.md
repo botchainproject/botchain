@@ -14,6 +14,8 @@
   <a href="https://github.com/botchainproject/chain">The chain's code</a>
   &nbsp;·&nbsp;
   <a href="https://x.com/SizeChad/status/2104268407545733309">The idea</a>
+  &nbsp;·&nbsp;
+  <a href="https://x.com/botchainwtf">X</a>
 </p>
 
 # botchain
